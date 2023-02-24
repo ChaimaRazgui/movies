@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2rv6tVXwu/zUesww5R7LmKbD6hYEzKY3YI+zYiHqmD/DRxxddr1qCi1zoyOJ7d182owPXn3ao957InfcI2kng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\x\\Desktop\\Projets\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\x\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
